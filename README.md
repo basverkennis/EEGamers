@@ -24,7 +24,6 @@ We want to thank g.tec neurotehcnology GmbH and the BR41N.io SpringSchool 2023 f
 We want to be transparent about the limitations and state of our project. While we were able to successfully implement the BCI technology in our Unity 3D shooter game during the hackathon, please note that:
 
 - The project code is not well documented and the variables and folder names are fairly messy.
-- The project has not been fully tested due to a lack of access to the Unicorn Unity plugin.
 - The project may have bugs or issues.
 
 Please keep these limitations in mind if you decide to use or modify our project. we have made every effort to make it as plug-and-play as possible. We encourage any feedback or suggestions for improvement that you may have. We also want to highlight that this project was developed with the Unicorn Unity Interface Hybrid Black license from g.tec neurotechnology GmbH, which is required to use the BCI technology. Additionally, please note that this project has only been tested on Windows and with the specific hardware and software requirements mentioned.
