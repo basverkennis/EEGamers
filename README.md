@@ -21,7 +21,7 @@ To learn more about our project and how we achieved this exciting feat, please c
 We want to thank g.tec neurotehcnology GmbH and the BR41N.io SpringSchool 2023 for organizing this amazing hacketon. And all the professors and students of Tilburg University that supported us during the hacketon! :)
 
 ## Project Limitations and State
-We want to be transparent about the limitations and state of our project. While we were able to successfully implement the BCI technology in our Unity 3D shooter game during the hackathon, please note that:
+We want to be transparent about the limitations and state of our project. While we were able to successfully implement the BCI technology in our Unity 3D shooter game during the hackathon, please note that we were unable to access the Unicorn Unity plugin after the event, which prevented us from improving the project's documentation, structure, and testing of these changes:
 
 - The project code is not well documented and the variables and folder names are fairly messy.
 - The project may have bugs or issues.
