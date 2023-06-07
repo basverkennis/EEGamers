@@ -30,7 +30,4 @@ Please keep these limitations in mind if you decide to use or modify our project
 
 Overall, we encourage anyone who wants to use this project to carefully review the documentation and system requirements before attempting to use it. While we believe that this project has potential for further development, we recognize that it has limitations due to the time constraints of the hackathon.
 
-
-
-
-
+For access to the project, please send your request to bas.verkennis.code@gmail.com.
