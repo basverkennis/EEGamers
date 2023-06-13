@@ -2,6 +2,8 @@
 
 --------------------------------------------------------------------------------
 
+*For access to the project, please send your request to bas.verkennis.code@gmail.com.*
+
 **Our team won 3rd place in the Gaming projects category at g.tec's BR41N.io Hacketon SpringSchool 2023, thanks to our innovative project that combined a 3D shooter game with a Brain-Computer Interface (BCI) technology.** Specifically, we implemented the Unicorn Unity Hybrid Black BCI and the code-modulated visual evoked potential (CVEP) module, which allowed players to control their in-game actions using their brainwaves.
 
 To learn more about our project and how we achieved this exciting feat, please check out our presentation on YouTube. We provide a detailed explanation of the game mechanics, the BCI technology we used, and our implementation process during the hackathon.
@@ -29,5 +31,3 @@ We want to be transparent about the limitations and state of our project. While 
 Please keep these limitations in mind if you decide to use or modify our project. we have made every effort to make it as plug-and-play as possible. We encourage any feedback or suggestions for improvement that you may have. We also want to highlight that this project was developed with the Unicorn Unity Interface Hybrid Black license from g.tec neurotechnology GmbH, which is required to use the BCI technology. Additionally, please note that this project has only been tested on Windows and with the specific hardware and software requirements mentioned.
 
 Overall, we encourage anyone who wants to use this project to carefully review the documentation and system requirements before attempting to use it. While we believe that this project has potential for further development, we recognize that it has limitations due to the time constraints of the hackathon.
-
-For access to the project, please send your request to bas.verkennis.code@gmail.com.
