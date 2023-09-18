@@ -4,6 +4,9 @@
 
 *For access to the project, please send your request to bas.verkennis.code@gmail.com.*
 
+### The Concept of Telekinesis and Traditional Computer Controllers in Action: A 3D Shooter Game Enhanced with Unicorn-BCI and cVEP (short video and report)
+[![The Concept of Telekinesis and Traditional Computer Controllers in Action: A 3D Shooter Game Enhanced with Unicorn-BCI and cVEP](http://img.youtube.com/vi/bSKsPDMC7As/0.jpg)](https://www.youtube.com/watch?v=bSKsPDMC7As "The Concept of Telekinesis and Traditional Computer Controllers in Action: A 3D Shooter Game Enhanced with Unicorn-BCI and cVEP")
+
 **Our team won 3rd place in the Gaming projects category at g.tec's BR41N.io Hacketon SpringSchool 2023, thanks to our innovative project that combined a 3D shooter game with a Brain-Computer Interface (BCI) technology.** Specifically, we implemented the Unicorn Unity Hybrid Black BCI and the code-modulated visual evoked potential (CVEP) module, which allowed players to control their in-game actions using their brainwaves.
 
 To learn more about our project and how we achieved this exciting feat, please check out our presentation on YouTube. We provide a detailed explanation of the game mechanics, the BCI technology we used, and our implementation process during the hackathon.
