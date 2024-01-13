@@ -34,3 +34,10 @@ We want to be transparent about the limitations and state of our project. While 
 Please keep these limitations in mind if you decide to use or modify our project. we have made every effort to make it as plug-and-play as possible. We encourage any feedback or suggestions for improvement that you may have. We also want to highlight that this project was developed with the Unicorn Unity Interface Hybrid Black license from g.tec neurotechnology GmbH, which is required to use the BCI technology. Additionally, please note that this project has only been tested on Windows and with the specific hardware and software requirements mentioned.
 
 Overall, we encourage anyone who wants to use this project to carefully review the documentation and system requirements before attempting to use it. While we believe that this project has potential for further development, we recognize that it has limitations due to the time constraints of the hackathon.
+
+## Project Members
+- Spatika S. Gujran
+- Katarzyna Klęczek
+- Viktors Lipskis
+- Guido Morera
+- Bas Verkennis
